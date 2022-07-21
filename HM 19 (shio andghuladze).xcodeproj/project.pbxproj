@@ -13,6 +13,7 @@
 		95A3D007288924A500131AEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95A3D005288924A500131AEC /* Main.storyboard */; };
 		95A3D009288924AA00131AEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A3D008288924AA00131AEC /* Assets.xcassets */; };
 		95A3D00C288924AA00131AEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95A3D00A288924AA00131AEC /* LaunchScreen.storyboard */; };
+		95A3D01428893CEE00131AEC /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A3D01328893CEE00131AEC /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95A3D008288924AA00131AEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95A3D00B288924AA00131AEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95A3D00D288924AA00131AEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95A3D01328893CEE00131AEC /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				95A3D008288924AA00131AEC /* Assets.xcassets */,
 				95A3D00A288924AA00131AEC /* LaunchScreen.storyboard */,
 				95A3D00D288924AA00131AEC /* Info.plist */,
+				95A3D01328893CEE00131AEC /* CustomTextField.swift */,
 			);
 			path = "HM 19 (shio andghuladze)";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95A3D01428893CEE00131AEC /* CustomTextField.swift in Sources */,
 				95A3D004288924A500131AEC /* ViewController.swift in Sources */,
 				95A3D000288924A500131AEC /* AppDelegate.swift in Sources */,
 				95A3D002288924A500131AEC /* SceneDelegate.swift in Sources */,
